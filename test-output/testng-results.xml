@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-28T14:12:15 CST" name="Default suite" finished-at="2023-02-28T14:12:32 CST" duration-ms="16890">
+    <groups>
+    </groups>
+    <test started-at="2023-02-28T14:12:15 CST" name="Default test" finished-at="2023-02-28T14:12:32 CST" duration-ms="16890">
+      <class name="tset.LoginTest">
+        <test-method signature="ValidUSerShouldBeAbleToLogin()[pri:0, instance:tset.LoginTest@13b13b5d]" started-at="2023-02-28T14:12:15 CST" name="ValidUSerShouldBeAbleToLogin" finished-at="2023-02-28T14:12:32 CST" duration-ms="16853" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidUSerShouldBeAbleToLogin -->
+      </class> <!-- tset.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
